@@ -40,7 +40,7 @@ termux-setup-storage
 pkg update && pkg upgrade -y
 pkg install git nodejs -y
 cd /sdcard/
-git clone [https://github.com/teamxi1/GAEL-XIT-BOT.git](https://github.com/teamxi1/GAEL-XIT-BOT.git)
-cd GAEL-XIT-BOT
+git clone [https://github.com/teamxi1/BOTS.git](https://github.com/teamxi1/BOTS.git)
+cd BOTS
 npm install
 sh start.sh
